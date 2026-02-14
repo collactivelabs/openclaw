@@ -1,0 +1,11 @@
+# Local runtime artifacts
+.venv-*/
+
+# Temp transcripts generated during voice interactions
+tmp_transcript*.txt
+
+# Generated test media
+nano-banana-test.png
+
+# Outbound/inbound media staging (outside repo by default, keep explicit)
+*.tmp

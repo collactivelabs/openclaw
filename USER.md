@@ -5,6 +5,9 @@
 - **Pronouns:** Her/She
 - **Timezone:** UTC
 - **Notes:** Solo founder of a small software engineering company.
+- **Comms style preference:** Normal detail level.
+- **Working style preference:** Proactive with suggestions.
+- **Approval-required areas:** Finance actions, GitHub actions, and dangerous commands.
 
 ## Context
 

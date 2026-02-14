@@ -31,6 +31,16 @@ Things like:
 - Default speaker: Kitchen HomePod
 ```
 
+## Messaging / Media Paths
+
+- For sending files back to chat with `message.send`, stage/copy files into:
+  - `/home/labs/.openclaw/media/outbound/`
+- Files under workspace (e.g. `/home/labs/.openclaw/workspace/...`) may be blocked by provider path allowlists.
+- Default send flow:
+  1. Generate file in workspace (or anywhere)
+  2. Copy to `/home/labs/.openclaw/media/outbound/`
+  3. Send using `message` tool with `filePath` from outbound path
+
 ## Why Separate?
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.

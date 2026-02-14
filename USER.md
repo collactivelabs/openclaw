@@ -2,7 +2,7 @@
 
 - **Name:** E
 - **What to call them:** E
-- **Pronouns:**
+- **Pronouns:** Her/She
 - **Timezone:** UTC
 - **Notes:** Solo founder of a small software engineering company.
 
